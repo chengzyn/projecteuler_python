@@ -1,5 +1,12 @@
+import numpy as np
+
+
 def main():
-    problem001()
+    problem002()
+
+
+def problem002():
+    pass
 
 
 def problem001():
